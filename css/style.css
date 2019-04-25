@@ -1,0 +1,30 @@
+
+body {
+  background-image:url(../img/c.jpg);
+}
+
+
+#all {
+	margin: 0px auto;
+	width:750px;
+}
+
+
+
+#cubic div{
+	float: right;
+	width: 150px;
+	height: 150px;
+	margin: 5px;
+	padding: 5px;
+  background: url(../img/christmas.jpg);
+
+}
+
+
+#cubic div img {
+	display: none;
+    width:150px;
+	height: 150px;
+}
+
